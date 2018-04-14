@@ -1,0 +1,38 @@
+#vemcopa, #faltam, #days, #dias, #sub {
+  text-align: center;
+  text-shadow: 3px 3px #000;
+}
+
+#vemcopa {
+  font-size: 6em;
+}
+
+#faltam, #days, #dias {
+  margin: 0px;
+}
+
+#faltam, #dias {
+  font-size: 4em;
+}
+
+#days {
+  font-size: 8em;
+}
+
+#sub {
+  font-size: 0.2em;
+  position: relative;
+  vertical-align: baseline;
+}
+
+#verde, #amarelo {
+  /*text-shadow: 3px 3px #008FB7;*/
+}
+
+#verde {
+  color: #71CE81;
+}
+
+#amarelo {
+  color: #FFD454;
+}

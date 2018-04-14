@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
+/*
+@import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css');
+*/
+html {
+  /*background: url('http://www.mulherebeleza.net/img/fotos/estadio%20arena%20corinthians%202.jpg') no-repeat center center fixed;*/
+  background: url('https://cdn2.defesaaereanaval.com.br/wp-content/uploads/2015/11/maracana-inauguracao-28-size-5981.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Unica One', cursive;
+  color: #FFFFFF;
+}
